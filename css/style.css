@@ -1,0 +1,31 @@
+body{
+	background-image: linear-gradient(to bottom, #2ecc71 ,#8e44ad,#2980b9,#16a085,#2ecc71);
+	color: #fff;
+	font-family: Arial;
+}
+.container{
+	width: 100%;
+	max-width: 1024px;
+	margin:0 auto; 
+}
+h1{
+	color:#f05033;
+	text-align: center;
+	border-bottom: 2px solid;
+	padding: 30px ;
+	 
+
+}
+h1 img{
+	width: 10%;
+}
+ul{
+
+	list-style: none;
+}
+.cod{
+	background: #2c3e50;
+	color:#fff;
+	padding: 10px 20px;
+	border-radius:5px; 
+}
